@@ -1,7 +1,44 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Repos\\Projects\\TasalyFlex\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DADE2643-C98A-42B3-8D2D-38E73127573F}|TasalyFlex.DAL\\TasalyFlex.DAL.csproj|e:\\repos\\projects\\tasalyflex\\tasalyflex.dal\\entities\\userlikemovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADE2643-C98A-42B3-8D2D-38E73127573F}|TasalyFlex.DAL\\TasalyFlex.DAL.csproj|solutionrelative:tasalyflex.dal\\entities\\userlikemovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADE2643-C98A-42B3-8D2D-38E73127573F}|TasalyFlex.DAL\\TasalyFlex.DAL.csproj|e:\\repos\\projects\\tasalyflex\\tasalyflex.dal\\entities\\usercommentmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADE2643-C98A-42B3-8D2D-38E73127573F}|TasalyFlex.DAL\\TasalyFlex.DAL.csproj|solutionrelative:tasalyflex.dal\\entities\\usercommentmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADE2643-C98A-42B3-8D2D-38E73127573F}|TasalyFlex.DAL\\TasalyFlex.DAL.csproj|e:\\repos\\projects\\tasalyflex\\tasalyflex.dal\\entities\\movieactors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADE2643-C98A-42B3-8D2D-38E73127573F}|TasalyFlex.DAL\\TasalyFlex.DAL.csproj|solutionrelative:tasalyflex.dal\\entities\\movieactors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADE2643-C98A-42B3-8D2D-38E73127573F}|TasalyFlex.DAL\\TasalyFlex.DAL.csproj|e:\\repos\\projects\\tasalyflex\\tasalyflex.dal\\entities\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADE2643-C98A-42B3-8D2D-38E73127573F}|TasalyFlex.DAL\\TasalyFlex.DAL.csproj|solutionrelative:tasalyflex.dal\\entities\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADE2643-C98A-42B3-8D2D-38E73127573F}|TasalyFlex.DAL\\TasalyFlex.DAL.csproj|e:\\repos\\projects\\tasalyflex\\tasalyflex.dal\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADE2643-C98A-42B3-8D2D-38E73127573F}|TasalyFlex.DAL\\TasalyFlex.DAL.csproj|solutionrelative:tasalyflex.dal\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADE2643-C98A-42B3-8D2D-38E73127573F}|TasalyFlex.DAL\\TasalyFlex.DAL.csproj|e:\\repos\\projects\\tasalyflex\\tasalyflex.dal\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADE2643-C98A-42B3-8D2D-38E73127573F}|TasalyFlex.DAL\\TasalyFlex.DAL.csproj|solutionrelative:tasalyflex.dal\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADE2643-C98A-42B3-8D2D-38E73127573F}|TasalyFlex.DAL\\TasalyFlex.DAL.csproj|e:\\repos\\projects\\tasalyflex\\tasalyflex.dal\\entities\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADE2643-C98A-42B3-8D2D-38E73127573F}|TasalyFlex.DAL\\TasalyFlex.DAL.csproj|solutionrelative:tasalyflex.dal\\entities\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADE2643-C98A-42B3-8D2D-38E73127573F}|TasalyFlex.DAL\\TasalyFlex.DAL.csproj|e:\\repos\\projects\\tasalyflex\\tasalyflex.dal\\entities\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADE2643-C98A-42B3-8D2D-38E73127573F}|TasalyFlex.DAL\\TasalyFlex.DAL.csproj|solutionrelative:tasalyflex.dal\\entities\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADE2643-C98A-42B3-8D2D-38E73127573F}|TasalyFlex.DAL\\TasalyFlex.DAL.csproj|e:\\repos\\projects\\tasalyflex\\tasalyflex.dal\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADE2643-C98A-42B3-8D2D-38E73127573F}|TasalyFlex.DAL\\TasalyFlex.DAL.csproj|solutionrelative:tasalyflex.dal\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 994,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,6 +75,123 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserLikeMovie.cs",
+              "DocumentMoniker": "E:\\Repos\\Projects\\TasalyFlex\\TasalyFlex.DAL\\Entities\\UserLikeMovie.cs",
+              "RelativeDocumentMoniker": "TasalyFlex.DAL\\Entities\\UserLikeMovie.cs",
+              "ToolTip": "E:\\Repos\\Projects\\TasalyFlex\\TasalyFlex.DAL\\Entities\\UserLikeMovie.cs",
+              "RelativeToolTip": "TasalyFlex.DAL\\Entities\\UserLikeMovie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T02:44:20.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserCommentMovie.cs",
+              "DocumentMoniker": "E:\\Repos\\Projects\\TasalyFlex\\TasalyFlex.DAL\\Entities\\UserCommentMovie.cs",
+              "RelativeDocumentMoniker": "TasalyFlex.DAL\\Entities\\UserCommentMovie.cs",
+              "ToolTip": "E:\\Repos\\Projects\\TasalyFlex\\TasalyFlex.DAL\\Entities\\UserCommentMovie.cs",
+              "RelativeToolTip": "TasalyFlex.DAL\\Entities\\UserCommentMovie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T02:42:17.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieActors.cs",
+              "DocumentMoniker": "E:\\Repos\\Projects\\TasalyFlex\\TasalyFlex.DAL\\Entities\\MovieActors.cs",
+              "RelativeDocumentMoniker": "TasalyFlex.DAL\\Entities\\MovieActors.cs",
+              "ToolTip": "E:\\Repos\\Projects\\TasalyFlex\\TasalyFlex.DAL\\Entities\\MovieActors.cs",
+              "RelativeToolTip": "TasalyFlex.DAL\\Entities\\MovieActors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T02:39:49.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "E:\\Repos\\Projects\\TasalyFlex\\TasalyFlex.DAL\\Entities\\Identity\\AppUser.cs",
+              "RelativeDocumentMoniker": "TasalyFlex.DAL\\Entities\\Identity\\AppUser.cs",
+              "ToolTip": "E:\\Repos\\Projects\\TasalyFlex\\TasalyFlex.DAL\\Entities\\Identity\\AppUser.cs",
+              "RelativeToolTip": "TasalyFlex.DAL\\Entities\\Identity\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T02:37:57.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "E:\\Repos\\Projects\\TasalyFlex\\TasalyFlex.DAL\\Entities\\Movie.cs",
+              "RelativeDocumentMoniker": "TasalyFlex.DAL\\Entities\\Movie.cs",
+              "ToolTip": "E:\\Repos\\Projects\\TasalyFlex\\TasalyFlex.DAL\\Entities\\Movie.cs",
+              "RelativeToolTip": "TasalyFlex.DAL\\Entities\\Movie.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T02:32:24.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\Repos\\Projects\\TasalyFlex\\TasalyFlex.DAL\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "TasalyFlex.DAL\\Entities\\Category.cs",
+              "ToolTip": "E:\\Repos\\Projects\\TasalyFlex\\TasalyFlex.DAL\\Entities\\Category.cs",
+              "RelativeToolTip": "TasalyFlex.DAL\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T02:29:27.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Director.cs",
+              "DocumentMoniker": "E:\\Repos\\Projects\\TasalyFlex\\TasalyFlex.DAL\\Entities\\Director.cs",
+              "RelativeDocumentMoniker": "TasalyFlex.DAL\\Entities\\Director.cs",
+              "ToolTip": "E:\\Repos\\Projects\\TasalyFlex\\TasalyFlex.DAL\\Entities\\Director.cs",
+              "RelativeToolTip": "TasalyFlex.DAL\\Entities\\Director.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T02:27:37.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "E:\\Repos\\Projects\\TasalyFlex\\TasalyFlex.DAL\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "TasalyFlex.DAL\\Entities\\BaseEntity.cs",
+              "ToolTip": "E:\\Repos\\Projects\\TasalyFlex\\TasalyFlex.DAL\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "TasalyFlex.DAL\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T02:24:57.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "E:\\Repos\\Projects\\TasalyFlex\\TasalyFlex.DAL\\Entities\\Actor.cs",
+              "RelativeDocumentMoniker": "TasalyFlex.DAL\\Entities\\Actor.cs",
+              "ToolTip": "E:\\Repos\\Projects\\TasalyFlex\\TasalyFlex.DAL\\Entities\\Actor.cs",
+              "RelativeToolTip": "TasalyFlex.DAL\\Entities\\Actor.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T02:24:42.733Z",
+              "EditorCaption": ""
             }
           ]
         },

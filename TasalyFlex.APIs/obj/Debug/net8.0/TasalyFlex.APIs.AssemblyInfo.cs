@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TasalyFlex.APIs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7f93f893a87582fce85dfda6c99b52077e15ff3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10df7301a81f12a02efefeeb00c2c1573e976243")]
 [assembly: System.Reflection.AssemblyProductAttribute("TasalyFlex.APIs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TasalyFlex.APIs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
