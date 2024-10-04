@@ -1,0 +1,12 @@
+E:\Repos\Projects\TasalyFlex\TasalyFlex.DAL\bin\Debug\net8.0\TasalyFlex.DAL.deps.json
+E:\Repos\Projects\TasalyFlex\TasalyFlex.DAL\bin\Debug\net8.0\TasalyFlex.DAL.dll
+E:\Repos\Projects\TasalyFlex\TasalyFlex.DAL\bin\Debug\net8.0\TasalyFlex.DAL.pdb
+E:\Repos\Projects\TasalyFlex\TasalyFlex.DAL\obj\Debug\net8.0\TasalyFlex.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Projects\TasalyFlex\TasalyFlex.DAL\obj\Debug\net8.0\TasalyFlex.DAL.AssemblyInfoInputs.cache
+E:\Repos\Projects\TasalyFlex\TasalyFlex.DAL\obj\Debug\net8.0\TasalyFlex.DAL.AssemblyInfo.cs
+E:\Repos\Projects\TasalyFlex\TasalyFlex.DAL\obj\Debug\net8.0\TasalyFlex.DAL.csproj.CoreCompileInputs.cache
+E:\Repos\Projects\TasalyFlex\TasalyFlex.DAL\obj\Debug\net8.0\TasalyFlex.DAL.sourcelink.json
+E:\Repos\Projects\TasalyFlex\TasalyFlex.DAL\obj\Debug\net8.0\TasalyFlex.DAL.dll
+E:\Repos\Projects\TasalyFlex\TasalyFlex.DAL\obj\Debug\net8.0\refint\TasalyFlex.DAL.dll
+E:\Repos\Projects\TasalyFlex\TasalyFlex.DAL\obj\Debug\net8.0\TasalyFlex.DAL.pdb
+E:\Repos\Projects\TasalyFlex\TasalyFlex.DAL\obj\Debug\net8.0\ref\TasalyFlex.DAL.dll

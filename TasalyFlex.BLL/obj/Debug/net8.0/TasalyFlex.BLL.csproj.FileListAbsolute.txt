@@ -1,0 +1,16 @@
+E:\Repos\Projects\TasalyFlex\TasalyFlex.BLL\bin\Debug\net8.0\TasalyFlex.BLL.deps.json
+E:\Repos\Projects\TasalyFlex\TasalyFlex.BLL\bin\Debug\net8.0\TasalyFlex.BLL.dll
+E:\Repos\Projects\TasalyFlex\TasalyFlex.BLL\bin\Debug\net8.0\TasalyFlex.BLL.pdb
+E:\Repos\Projects\TasalyFlex\TasalyFlex.BLL\bin\Debug\net8.0\TasalyFlex.DAL.dll
+E:\Repos\Projects\TasalyFlex\TasalyFlex.BLL\bin\Debug\net8.0\TasalyFlex.DAL.pdb
+E:\Repos\Projects\TasalyFlex\TasalyFlex.BLL\obj\Debug\net8.0\TasalyFlex.BLL.csproj.AssemblyReference.cache
+E:\Repos\Projects\TasalyFlex\TasalyFlex.BLL\obj\Debug\net8.0\TasalyFlex.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Projects\TasalyFlex\TasalyFlex.BLL\obj\Debug\net8.0\TasalyFlex.BLL.AssemblyInfoInputs.cache
+E:\Repos\Projects\TasalyFlex\TasalyFlex.BLL\obj\Debug\net8.0\TasalyFlex.BLL.AssemblyInfo.cs
+E:\Repos\Projects\TasalyFlex\TasalyFlex.BLL\obj\Debug\net8.0\TasalyFlex.BLL.csproj.CoreCompileInputs.cache
+E:\Repos\Projects\TasalyFlex\TasalyFlex.BLL\obj\Debug\net8.0\TasalyFlex.BLL.sourcelink.json
+E:\Repos\Projects\TasalyFlex\TasalyFlex.BLL\obj\Debug\net8.0\TasalyFl.5CC55F0D.Up2Date
+E:\Repos\Projects\TasalyFlex\TasalyFlex.BLL\obj\Debug\net8.0\TasalyFlex.BLL.dll
+E:\Repos\Projects\TasalyFlex\TasalyFlex.BLL\obj\Debug\net8.0\refint\TasalyFlex.BLL.dll
+E:\Repos\Projects\TasalyFlex\TasalyFlex.BLL\obj\Debug\net8.0\TasalyFlex.BLL.pdb
+E:\Repos\Projects\TasalyFlex\TasalyFlex.BLL\obj\Debug\net8.0\ref\TasalyFlex.BLL.dll
